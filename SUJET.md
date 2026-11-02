@@ -56,7 +56,7 @@ Les relevés sont lus dans `donnees/releves.json`, et chaque ajout y est enregis
    ```powershell
    git init
    git add .
-   git commit -m "Départ du brief 4 : kit fourni"
+   git commit -m "Départ du brief 4 : kit fourni" 
    git branch -M main
    git remote add origin https://github.com/VOTRE-COMPTE/brief-4-journal-meteo.git
    git push -u origin main
