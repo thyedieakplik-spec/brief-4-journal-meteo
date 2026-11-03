@@ -4,7 +4,7 @@
 
 ## Contexte
 
-✏️ *En trois à cinq phrases : qui utilise l'outil, quel problème il résout, ce qu'il ne permet pas de conclure.*
+ Le journal météorologique est utulisé par le chef d'exploitation, le technicien agricole, l'agronome. Il permetd'anticiper les risques climatiques,planifier les activiités agricoles et les températures élévées. A lui seul ne permet pas de determiner la quantité exacte de récolte à obtenir, la présence de parasites dans les cultures, la qualitée des semences.
 
 ## Prérequis et lancement
 
