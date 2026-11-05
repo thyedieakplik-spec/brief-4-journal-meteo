@@ -1,4 +1,4 @@
-# Relevé des tests
+1# Relevé des tests
 
 > Écrivez le résultat attendu avant d'essayer. Un écart n'est pas une faute : notez-le, corrigez, refaites le test.
 
@@ -13,11 +13,14 @@ journée avec au moins 10mm = "M03(12mm) ; "M08"(15mm)
 
 | Action | Attendu | Obtenu | Testeur |
 | --- | --- | --- | --- |
-| calculer la moyenne temperatures | 28°c | 28°c si le programme fonctionne                   |  Moi |
-| afficher la temperature minimale |26°c(M03et M08)|  26°C si correct                           | Moi|
-| afficher la temperature maximale|30°C(M06 et M10)| 30°c si correct                             | Moi|
-| calculer le cumul de pluie |45Mm |45Mm si correct                                               | Moi|
-| afficher les jours au moins 10Mm de pluie |M03(12Mm)et M08(15MM)|M03 et M08 si correct           |Moi |
-| tester le menu et la sauvegarde | ajout conservé après redemarrage |à vérifier dans le programme|  Moi|
+| Ajouter un relevé | releve ajoute|Relevé M14 ajouté. Le journal compte 12 relevé(s). |  Moi |
+| Ajouter un releve deja existant |releve refuse|Relevé refusé; Identifiant invalide ou déjà utilisé| Moi|
+| rechercher un releve inexistant|releve introuvable |Relevé M13 introuvable.| Moi|
+|trier par temperature  |afficher par ordre croissant|les temperatures sont affichees par ordre croissant| Moi|
+|Trier par pluie  |afficher par ordre croissant| les pluies sont afficher par ordre croissant|Moi |
+| afficher la Synthèse de la série| affichage de la synthèse |Rappels :
+  - Quelques jours de relevés forment une courte série météo : ils ne décrivent pas le climat de la région.
+  - Le seuil de 10 mm est une catégorie d'exercice : il ne prévoit ni inondation ni stress hydrique.
+  - L'humidité relative de l'air (en %) n'est pas l'humidité du sol.|  Moi|
 
 **Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️
