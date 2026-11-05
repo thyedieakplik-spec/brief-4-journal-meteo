@@ -4,6 +4,6 @@
 
 | Ce que je cherchais | Où | Ce que j'ai compris | Utilisé dans |
 | --- | --- | --- | --- |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
+| src/saisie.js: permet de saisir les informations au clavier. | | | |
+| src/outils.js contient les fonctions qui servent à faire les calculs et les traitements. | | | |
+| test/contient les tests qui permettent de vérifier si le programme fonctionne correctement. | | | |

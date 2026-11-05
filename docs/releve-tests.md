@@ -13,11 +13,11 @@ journée avec au moins 10mm = "M03(12mm) ; "M08"(15mm)
 
 | Action | Attendu | Obtenu | Testeur |
 | --- | --- | --- | --- |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
+| calculer la moyenne temperatures | 28°c | 28°c si le programme fonctionne                   |  Moi |
+| afficher la temperature minimale |26°c(M03et M08)|  26°C si correct                           | Moi|
+| afficher la temperature maximale|30°C(M06 et M10)| 30°c si correct                             | Moi|
+| calculer le cumul de pluie |45Mm |45Mm si correct                                               | Moi|
+| afficher les jours au moins 10Mm de pluie |M03(12Mm)et M08(15MM)|M03 et M08 si correct           |Moi |
+| tester le menu et la sauvegarde | ajout conservé après redemarrage |à vérifier dans le programme|  Moi|
 
 **Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️

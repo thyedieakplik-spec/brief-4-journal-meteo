@@ -3,7 +3,6 @@
 **Fichier :** `src/stockage.js` · **Tests :** `npm run test:stockage` (3 tests)
 
 À faire en premier : au démarrage, `app.js` charge les données avec votre `chargerJson`. Tant qu'elle n'est pas codée, le menu démarre avec une liste vide.
-
 ## `chargerJson(chemin)`
 
 **Reçoit** le chemin d'un fichier JSON. **Renvoie** le tableau qu'il contient. Si le fichier n'existe pas ou n'est pas du JSON valide, laissez l'erreur remonter : le menu l'affiche.

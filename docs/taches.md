@@ -5,13 +5,13 @@
 | Tâche | Prévu | Fait le | Preuve |
 | --- | --- | --- | --- |
 | Poste et dépôt prêts ; besoin compris ; documents commencés | | | |
-| Fiche 2 : lire et écrire le JSON | | | |
+| Fiche 2 : lire et écrire le JSON |03 novembre |novembre 03| repository github|
 | Fiche 3 : ajouter et lister ; choix 1 et 2 ; erreurs | | | |
-| Fiche 4 : rechercher et trier ; choix 3 et 4 | | | |
-| Fiche 5 : synthèse ; choix 5 | | | |
+| Fiche 4 : rechercher et trier ; choix 3 et 4 |03 novembre |04 novembre |repository github|
+| Fiche 5 : synthèse ; choix 5 | 04 novembre|04 novembre |repository github |
 | Tests par un camarade ; mes propres tests | | | |
-| Fiche agronomique ; README ; documents | | | |
+| Fiche agronomique ; README ; documents |02 novembre | 02 novembre| repository github|
 | Dépôt cloné et lancé ailleurs ; démonstration répétée | | | |
 | Bonus | | | |
 
-**Blocages** (le message exact, ce que j'ai essayé, la solution) : ✏️
+**Blocages** (le message exact, ce que j'ai essayé, la solution) : 
